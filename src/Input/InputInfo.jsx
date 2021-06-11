@@ -21,7 +21,6 @@ export const InputInfo=()=>{
         setButtonClassId(response.id)
     }
     function updateField(e){
-        console.log(e.target.name)
         setNames({
             ...names,[e.target.name]:e.target.value
         })

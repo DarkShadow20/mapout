@@ -1,7 +1,6 @@
 import "./Preview.css";
 
 export const Preview=({names,array,ed})=>{
-    console.log(ed)
     return (
         <div className="preview-comtainer">
             <div className="d-flex justify-content-start">
