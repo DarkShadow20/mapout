@@ -1,0 +1,131 @@
+a{
+    margin: 0rem 0.5rem 0.5rem 1rem;
+    text-decoration: none;
+}
+.text-name{
+    margin-left: 1rem;
+    margin-top: 0rem;
+    font-weight: 500;
+    font-size: larger;
+}
+.job-container{
+    margin-left: 1rem;
+}
+
+.job-change{
+    font-size: small;
+    color:#D1D5DB;
+}
+.job-info{
+    font-size: small;
+    color:#D1D5DB;
+    margin-right: 0.5rem;
+}
+.job-prefrence{
+    font-size: small;
+    color:#D1D5DB;
+    margin-left: 1rem;
+}
+.job-prefrences{
+    font-size: small;
+    color:#D1D5DB;
+    margin-left: 5rem;
+}
+.job-text{
+    font-size: small;
+    margin-left: 0.5rem;
+    border-bottom: 1px solid #B45309;
+}
+.job-from{
+    font-size: small;
+    margin-left: 0.5rem;
+}
+.personal-info{
+    font-size: small;
+    margin-left: 1rem;
+}
+.tags{
+    background-color: #E5E7EB;
+    width: fit-content;
+    padding: 0.5rem;
+    border-radius: 0.5rem;
+    margin-left: 0.2rem;
+    word-wrap:break-word;
+}
+.education-journey{
+    margin-top: 1rem;
+    font-size: small;
+}
+.img-1{
+    margin-left: -3rem;
+    width: 5rem;
+    height: 4rem;
+    border-radius: 0.5rem;
+}
+.img-2{
+    margin-top: 0.5rem;
+    width: 6rem;
+    height: 9rem;
+    border-radius: 0.5rem;
+    margin-left: -5rem;
+}
+.img-3{
+    margin-top: -0.51rem;
+    margin-right: 0.2rem;
+    width: 3rem;
+    height: 4rem;
+    border-radius: 0.5rem;
+}
+.motto{
+    margin-top: 1rem;
+    background-color: #FFFBEB;
+    height: 5rem;
+    border-radius: 1rem;
+}
+.col-2{
+    margin-top: 1rem;
+}
+.tag{
+    font-size: small;
+    margin-top: 1rem;
+    background-color: #E5E7EB;
+    padding: 0.2rem;
+    width: fit-content;
+    border-radius: 0.5rem;
+}
+.normal-tag{
+    font-size: small;
+    margin-top: 1rem;
+    padding: 0.2rem;
+}
+.ed-heading{
+    margin-left: 1rem;
+    margin-top: 2rem;
+    font-size: large;
+}
+.univ-heading{
+    font-size: 1rem;
+    margin-left: 1rem;
+    margin-top: 1rem;
+}
+.univ-program{
+    font-size: 1rem;
+    margin-left: 1rem;
+    color: #D1D5DB;
+}
+.univ-about{
+    font-size: 1rem;
+    margin-left: 1rem;
+}
+.about-tech{
+    font-size: 1rem;
+    margin-left: 1rem;
+}
+li{
+    list-style: none;
+}
+li::before{
+    font-size: 1.5rem;
+    content:"\2192";
+    color: #60A5FA;
+}
